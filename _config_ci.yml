@@ -2,10 +2,14 @@
 title: Hoang Tran
 email: hoangtn1304@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My personal blog post
+  Random Thoughts of a Simple Programmer
+author: Hoang Tran
+keywords: ricky, software engineer, simple, happy
 url: https://hoangtn1304.github.io # the base hostname & protocol for your site
-twitter_username: hoangtn1304
-github_username:  hoangtn1304
+twitter: RickyTran
+github:  hoangtn1304
+facebook: hoang.tran.vn
+linkedin: hoang-tran-4a377770
 encoding: utf-8
 
 # Build settings
