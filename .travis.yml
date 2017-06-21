@@ -5,6 +5,10 @@ rvm:
     
 cache: bundler
 
+before_install:
+    - chmod +x build.sh
+    - chmod +x deploy.sh
+
 install:
     - bundle install
     
