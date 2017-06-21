@@ -9,10 +9,10 @@ install:
     - bundle install
     
 script:
-    - "./scripts/build.sh"
+    - "./build.sh"
     
 after_success:
-    - "./scripts/deploy.sh"
+    - "./deploy.sh"
     
 env:
     global:
