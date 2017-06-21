@@ -25,5 +25,4 @@ function build_site {
 	bundle exec jekyll build 
 }
 
-rvm install
 main
