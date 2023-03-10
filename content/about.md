@@ -1,7 +1,7 @@
 ---
 title: About me
 description: 'Hugo, the world''s fastest framework for building websites'
-date: '2023-04-13'
+date: '2023-02-28'
 author: Hugo Authors
 ---
 
