@@ -36,5 +36,5 @@ enableEmoji = true
 [params.author]
   avatar = "img/avatar.jpg"
   intro = "Awesome hugo blog"
-  name = "Sidharth R"
+  name = "Hoang N. Tran"
   description = "A minimalistic Hugo theme with light and dark mode support, for running a personal site or blog"
